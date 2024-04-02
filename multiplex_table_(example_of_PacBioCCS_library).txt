@@ -1,0 +1,433 @@
+Collection_no.	Genus	(Infra)Species	Databaseno.(name_on_the_tube)	L0725	F4121	fVGF	rVVG
+Wade3094	Loxogramme	parksii	Co159				
+Wade3428	Loxogramme	parksii	Co160				
+Lu15742	Plagiogyria	adnata	Co197				
+Kuo512	Goniophlebium	percussum	Co221				
+Wade2609	Plagiogyria	adnata	Co248				
+Wade3933	Oreogrammitis	jagoriana	Co289				
+Wade3934	Oreogrammitis	fenicis	Co290				
+Wade3936	Tomophyllum	donianum	Co291				
+Lu26324	Hymenasplenium	pseudobscurum	Co397	br15	br15	br15	br04
+Lu28348	Dryopteris	alpestris	Co399	br03	br06	br04	br18
+Lu22288	Monachosorum	maximowiczii	Co426				
+Lu25988	Didymoglossum	bimarginatum	Co437				
+Lu25993	Adiantum	edgeworthii	Co438				
+Kuo2411	Loxogramme	biformis	Co441				
+Kuo4198	Adiantum	malesianum	Co505				
+Wade4993	Christella	latipinna	Co513				
+Lu31411	Cyclogramma	leveillei	Co520	br08	br10	br14	br01
+201115_g1	unknown	gametophyte	201115_g1	br01	br11		
+201115_g10	unknown	gametophyte	201115_g10	br07	br05		
+201115_g11	unknown	gametophyte	201115_g11	br08	br02		
+201115_g13	unknown	gametophyte	201115_g13	br03	br11		
+201115_g16	unknown	gametophyte	201115_g16	br08	br04		
+201115_g17	unknown	gametophyte	201115_g17	br08	br05		
+201115_g3	unknown	gametophyte	201115_g3	br02	br06		
+201115_g38	unknown	gametophyte	201115_g38	br13	br02		
+201115_g39	unknown	gametophyte	201115_g39	br13	br07		
+201115_g40	unknown	gametophyte	201115_g40	br04	br11		
+201115_g4-1	unknown	gametophyte	201115_g4-1	br09	br05		
+201115_g42	unknown	gametophyte	201115_g42	br10	br02		
+201115_g43	unknown	gametophyte	201115_g43	br10	br06		
+201115_g48	unknown	gametophyte	201115_g48	br12	br07		
+201115_g50	unknown	gametophyte	201115_g50	br04	br06		
+201115_g51	unknown	gametophyte	201115_g51	br05	br04		
+201115_g8	unknown	gametophyte	201115_g8	br04	br03		
+210118_g104-2	unknown	gametophyte	210118_g104-2	br15	br10		
+210118_g14	unknown	gametophyte	210118_g14	br08	br11		
+210118_g15	unknown	gametophyte	210118_g15	br17	br01		
+210118_g16	unknown	gametophyte	210118_g16	br10	br11		
+210118_g20	unknown	gametophyte	210118_g20	br20	br01		
+210118_g23	unknown	gametophyte	210118_g23	br15	br02		
+210118_g26	unknown	gametophyte	210118_g26	br16	br02		
+210118_g37	unknown	gametophyte	210118_g37	br12	br11		
+210118_g7	unknown	gametophyte	210118_g7	br15	br01		
+210118_g72	unknown	gametophyte	210118_g72	br19	br02		
+210118_g79	unknown	gametophyte	210118_g79	br20	br03		
+210118_g80	unknown	gametophyte	210118_g80	br15	br04		
+210118_g81	unknown	gametophyte	210118_g81	br17	br04		
+210118_g82	unknown	gametophyte	210118_g82	br20	br11		
+210118_g86	unknown	gametophyte	210118_g86	br18	br05		
+210118_g87	unknown	gametophyte	210118_g87	br14	br07		
+210118_g92	unknown	gametophyte	210118_g92	br15	br07		
+210118_g95	unknown	gametophyte	210118_g95	br16	br07		
+210118_g96	unknown	gametophyte	210118_g96	br18	br08		
+Wade3890	Loxogramme	avenia	Co153	br08	br09	br18	br10
+Wade4316	Loxogramme	carinata	Co154	br10	br09	br18	br11
+Wade4805	Loxogramme	centicola	Co155	br11	br09	br18	br12
+Wade3902	Loxogramme	dimorpha	Co156	br12	br09	br18	br13
+Wade4709	Loxogramme	ensifrons	Co157	br13	br09	br18	br14
+Wade4696	Loxogramme	nidiformis	Co158	br14	br09	br18	br15
+SITW11134-2	Loxogramme	scolopendrioides	Co161	br17	br09	br18	br18
+Wade1829	Loxogramme	avenia	Co176	br18	br09	br17	br10
+Wade4805	Loxogramme	centicola	Co177	br19	br09	br17	br11
+FN96_20090917	Loxogramme	chinensis	Co178	br20	br09	br17	br12
+Wade2431	Loxogramme	grammitoides	Co179	br08	br08	br17	br13
+FWL985	Loxogramme	parallela	Co180	br09	br08	br17	br14
+Kuo3282	Loxogramme	salicifolia	Co181	br10	br08	br17	br15
+Wade1404	Loxogramme	scolopendria	Co182	br11	br08	br17	br16
+Lu15717	Loxogramme	sp.	Co183	br12	br08	br17	br17
+Wade2318	Plagiogyria	adnata	Co195	br11	br07	br15	br11
+Kuo2966	Plagiogyria	euphlebia	Co198				
+Wade2326	Plagiogyria	falcata	Co200				
+Kuo3455	Plagiogyria	glauca	Co201	br17	br07	br15	br17
+Wade1912	Plagiogyria	glauca	Co202	br18	br07		
+Lu24713	Plagiogyria	japonica	Co203	br19	br07	br14	br10
+Lu26126	Plagiogyria	japonica	Co204	br20	br07	br14	br11
+Lu23177	Goniophlebium	transpianense	Co222	br05	br17	br12	br18
+Wade2203	Goniophlebium	verrucosum	Co224	br06	br17	br11	br12
+Wade4813	Goniophlebium	prainii	Co225	br07	br17	br11	br13
+Liu9813	Odontosoria	retusa	Co226	br15	br08	br16	br11
+Wade1722	Odontosoria	chusana	Co227	br16	br08	br16	br12
+FWL687	Odontosoria	chusana	Co228			br16	br13
+Wade2371	Odontosoria	chinensis	Co230			br16	br14
+Wade3625	Odontosoria	retusa	Co231	br19	br08	br16	br15
+Wade3780	Odontosoria	chinensis	Co232	br20	br08	br16	br16
+Wade4188	Odontosoria	chinensis	Co233	br08	br07	br16	br17
+SITW10502	Odontosoria	deltoidea	Co234	br09	br07	br16	br18
+SITW11046-2	Odontosoria	chinensis	Co235	br10	br07	br15	br10
+Wade4121	Plagiogyria	falcata	Co253	br11	br06	br14	br14
+Wade4277	Plagiogyria	adnata	Co254	br12	br06	br14	br15
+Wade4600	Plagiogyria	clemensiae	Co257	br13	br06	br14	br16
+Lu31451	Plagiogyria	sp.	Co261	br14	br06	br14	br17
+FN4_20090705	Loxogramme	porcata	Co281	br13	br08	br17	br18
+Kuo2060	Oreogrammitis	jagoriana	Co285	br10	br01		
+Lu26073	Oreogrammitis	moorei	Co287	br15	br16	br01	br10
+Lu31378	Tomophyllum	donianum	Co292	br14	br17	br01	br11
+Hsu4470	Tomophyllum	donianum	Co293	br12	br12		
+Hsu5092	Tomophyllum	hayatae	Co294	br16	br17	br01	br12
+Hsu6420	Scleroglossum	sp.	Co295	br17	br18	br01	br13
+Hsu6554	Scleroglossum	sp.	Co296	br11	br11		
+Hsu6575	Oreogrammitis	ilanensis	Co297	br06	br07	br01	br14
+Hsu6615	Prosaptia	pectinata	Co299	br06	br05	br01	br15
+Hsu6620	Oreogrammitis	reinwardtii	Co300	br19	br20	br01	br16
+Hsu7120	Prosaptia	urceolaris	Co301			br03	br03
+Hsu7125	Prosaptia	contigua	Co302	br06	br02	br01	br17
+Hsu7136	Tomophyllum	donianum	Co303	br20	br18	br02	br10
+Hsu7155	Prosaptia	nutans	Co304	br06	br03	br02	br11
+Hsu7325	Oreogrammitis	moorei	Co305	br09	br02		
+Hsu7756	Tomophyllum	hayatae	Co306	br18	br17	br02	br13
+Hsu7830	Tomophyllum	sp.	Co307	br14	br16		
+Hsu8585	Tomophyllum	sp.	Co308	br01	br06		
+Hsu8994	Oreogrammitis	sp.	Co310	br16	br19		
+Hsu9915	Oreogrammitis	jagoriana	Co311	br17	br20		
+Hsu10189	Calymmodon	ordinatus	Co312	br01	br01		
+Hsu10198	Oreogrammitis	subevenosa	Co313			br01	br03
+Hsu10199	Oreogrammitis	adspersa	Co314			br01	br06
+Lu19495	Cheilanthes	tenuifolia	Co315	br19	br16		
+Kuo1544	Goniophlebium	manmeiense	Co320	br01	br16	br12	br15
+Lu21444	Doryopteris	concolor	Co325	br17	br16		
+SITW11656	Goniophlebium	persicifolium	Co333	br04	br16	br11	br11
+Lu39936	Paragymnopteris	vestita	Co334	br18	br16		
+SITW04914	Goniophlebium	demersum	Co335	br03	br16	br11	br10
+Hsu11304	Scleroglossum	sulcatum	Co340	br19	br18		
+Hsu11324	Prosaptia	pectinata	Co341	br06	br04		
+Hsu11441	Prosaptia	contigua	Co342	br06	br01	br02	br14
+Hsu11442	Prosaptia	formosana	Co343	br02	br02	br02	br17
+Hsu11852	Tomophyllum	sp.	Co344	br19	br17		
+Kuo4589	Prosaptia	celebica	Co348	br20	br19	br02	br15
+Hsu5648	Oreogrammitis	beddomeana	Co360			br02	br05
+Hsu6215	Tomophyllum	sp.	Co361	br20	br17		
+Hsu6347	Oreogrammitis	beddomeana	Co362	br05	br07	br02	br16
+Hsu6381	Oreogrammitis	taiwanensis	Co363	br03	br05	br02	br18
+Hsu6432	Oreogrammitis	sinohirtella	Co364	br14	br19		
+Hsu6564	Oreogrammitis	congenervar.polytricha	Co365	br17	br19		
+Hsu6581	Xiphopterella	devolii	Co366			br02	br06
+Hsu6621	Oreogrammitis	congenervar.polytricha	Co367	br10	br10	br10	br09
+Hsu6680	Oreogrammitis	setigera	Co368	br02	br05	br03	br12
+Hsu6803	Oreogrammitis	sp.	Co369	br15	br19		
+Hsu8581	Plagiogyria	falcataxglauca	Co371	br15	br06	br14	br18
+Hsu6348	Oreogrammitis	subnervosa	Co375	br18	br19	br09	br09
+Hsu6562	Oreogrammitis	ilanensis	Co377	br16	br20		
+Hsu7465	Calymmodon	oligotrichus	Co379	br15	br20		
+Lu24380-1	Pteris	rugosifolia	Co381	br15	br18		
+Chao3006	Bolbitis	lianhuachihensis	Co382	br14	br20	br09	br08
+Chao2092	Pteris	latipinna	Co383	br14	br18		
+Chao2771	Pteris	subesquirolii	Co384	br16	br18		
+Lu20755	Gymnocarpium	oyamense	Co385	br08	br13	br13	br06
+Lu20776	Dryopteris	toyamae	Co386	br14	br14	br14	br05
+Lu20796	Dryopteris	lacera	Co387	br20	br16	br03	br15
+Lu22603	Dryopteris	melanocarpa	Co388	br14	br15		
+Lu22292	Dryopteris	stenolepis	Co389	br16	br15	br03	br18
+Lu21476	Dryopteris	marginata	Co390	br17	br15	br04	br10
+FWL1052	Dryopteris	komarovii	Co391	br18	br15		
+FWL1060	Dryopteris	xanthomelas	Co392	br19	br15	br04	br12
+Lu24407	Dryopteris	enneaphylla	Co394	br20	br15	br04	br13
+Lu25150-2	Dryopteris	woodsiisora	Co395	br15	br14	br04	br14
+Lu28310	Equisetum	arvense	Co398				
+Lu28349	Dryopteris	serratodentata	Co400	br18	br14	br05	br10
+Lu31228	Dryopteris	zayuensis	Co404	br07	br01	br05	br11
+Lu30129	Elaphoglossum	marginatum	Co405	br07	br02	br05	br12
+Lu29793	Gymnocarpium	remotepinnatum	Co408	br14	br13	br05	br13
+Lu29796	Dryopteris	ryo-itoana	Co409	br15	br13	br05	br15
+Lu29893	Dryopteris	namegatae	Co410	br16	br13	br05	br16
+Lu29897	Dryopteris	edwardsii	Co411	br17	br13	br05	br17
+Lu29900	Dryopteris	kawakamii	Co412	br18	br13	br05	br18
+Wade5656	Loxogramme	forbesii	Co413	br14	br08	br16	br10
+Wade5922	Plagiogyria	pycnophylla	Co414	br16	br06	br13	br10
+MO2400	Leptochilus	longissimus	Co416	br13	br14		
+MO1881	Osmundastrum	cinnamomeum	Co418	br16	br16	br16	br03
+Lu20735	Cyrtomium	macrophyllum	Co419	br17	br17	br17	br02
+Lu20789	Adiantum	myriosorum	Co420	br18	br18	br18	br01
+Lu23905	Hypolepis	alpina	Co424	br19	br19	br06	br14
+Lu23886	Polystichum	hecatopterum	Co425	br20	br20	br06	br15
+FWL1053	Cryptogramma	stelleri	Co428	br16	br12		
+FWL1059	Polystichum	lachenense	Co429	br18	br10	br06	br18
+Lu23900	Teciaria	dubia	Co430	br18	br12	br07	br10
+Lu26000	Asplenium	shikokianum	Co432	br20	br12	br07	br11
+Lu26009	Asplenium	exiguum	Co433	br14	br11	br07	br12
+Lu26070	Crepidomanes	kurzii	Co435			br07	br13
+Lu26074	Diplazium	asperum	Co436	br17	br11	br07	br14
+Kuo3705	Lepisorus	miyoshianus	Co442	br14	br10	br07	br17
+Lu24382	Coniogramme	fraxinea	Co444	br16	br10		
+ZXC002256	Dryopteris	erythrosora	Co445	br04	br01	br08	br10
+ZXC002316	Salvinia	natans	Co446	br08	br20	br08	br12
+Kuo4606	Adiantum	capillus-venerisformacapillus-veneris	Co447	br09	br20	br08	br13
+Kuo4609	Tectaria	polymorpha	Co448	br01	br02	br08	br14
+Kuo4608	Pyrrosia	angustissima	Co449	br04	br02	br08	br15
+Kuo4614	Leptochilus	pteropus	Co450	br10	br20	br08	br16
+Kuo4610	Polystichum	lepidocaulon	Co451	br11	br20	br08	br17
+Kuo4613	Tectaria	fauriei	Co452	br12	br20	br08	br18
+Kuo4607	Asplenium	ritoense	Co453	br13	br20	br09	br11
+ZXC002021	Dryopteris	decipiensvar.diplazioides	Co454	br08	br19	br09	br12
+ZXC002053	Adiantum	myriosorum	Co455	br09	br19	br09	br13
+ZXC002197	Dryopteris	fuscipes	Co456	br05	br02	br09	br14
+Hsu11845	Polystichum	fraxinellum	Co457	br10	br19	br09	br15
+ZXC001789	Bolbitis	nanjenensis	Co459	br11	br19	br09	br16
+ZXC002317	Marsilea	minuta	Co460	br12	br19	br09	br17
+Hsu6248	Asplenium	wangii	Co462	br13	br19	br09	br18
+ZXC002194	Dryopteris	kinkiensis	Co463	br08	br18	br10	br10
+Hsu7877	Polystichum	grandifrons	Co464	br09	br18	br10	br11
+ZXC002049	Polystichum	mayebarae	Co465	br01	br03	br10	br12
+ZXC002243	Polystichum	attenuatum	Co466	br10	br18	br10	br13
+ZXC002244	Plagiogyria	koidzumii	Co467	br20	br06	br13	br14
+ZXC002246	Haplopteris	heterophylla	Co468	br11	br18	br10	br14
+ZXC002292	Athyrium	auriculatum	Co469	br12	br18	br10	br15
+Hsu9390	Loxogramme	chinensis	Co470	br11	br05	br13	br15
+Hsu5869	Athyrium	sheareri	Co471	br13	br18	br10	br16
+ZXC001484	Athyrium	puncticaule	Co473	br08	br17	br10	br17
+ZXC001517	Vandenboschia	subclathrata	Co474	br09	br17	br10	br18
+ZXC002137	Polystichum	capillipes	Co475	br10	br17	br11	br15
+ZXC002115	Crepidomanes	bipunctatum	Co476	br11	br17	br11	br16
+ZXC001146	Crepidomanes	bilabiatum	Co477	br12	br17	br11	br17
+ZXC002227	Hymenophyllum	javanicum	Co478	br13	br17	br11	br18
+ZXC002318	Odontosoria	gracilis	Co479	br19	br06	br13	br13
+Lu24411	Polystichum	biaristatum	Co480	br08	br16	br10	br01
+Lu25185	Coryphopteris	castanea	Co482	br09	br03	br10	br02
+Lu25249	Macrothelypteris	polypodioides	Co483	br09	br16	br10	br03
+Lu25251	Polystichum	tsus-simense	Co484	br07	br03	br10	br04
+Lu25299	Asplenium	capillipes	Co485	br10	br16	br10	br05
+Lu26263	Hymenophyllum	fimbriatum	Co486	br01	br04	br10	br06
+Lu26315	Bolbitis	scalpturata	Co487	br11	br16	br10	br07
+Lu26323	Adiantum	soboliferum	Co488	br12	br16	br10	br08
+Lu26362-2	Diplopterygium	laevissimum	Co489	br13	br16	br11	br01
+Lu26414	Didymoglossum	sublimbatum	Co490	br10	br03	br11	br02
+Lu26421	Odontosoria	chinensisO.gracilis	Co491	br17	br06	br13	br11
+Lu26459	Lepisorus	megasorus	Co492	br09	br15	br11	br03
+Lu26468	Acrostichum	aureum	Co493	br10	br15		
+Lu26528	Diplazium	okinawaense	Co494	br11	br15	br11	br05
+Lu26663	Loxogramme	biformis	Co495	br18	br06	br13	br12
+Lu26807	Coniogramme	procera	Co496	br12	br15	br11	br06
+Lu27885	Spicantopsis	hancockii	Co497	br07	br04	br11	br07
+Lu27888	Paesia	luzonica	Co498	br13	br15	br11	br09
+Lu27866	Hymenophyllum	devolii	Co499	br08	br14		
+Lu27904	Polystichum	xiphophyllum	Co500	br01	br05	br12	br02
+Lu27884	Blechnidium	melanopus	Co501	br04	br05	br12	br03
+Lu28252	Leptochilus	henryi	Co502	br09	br14	br12	br04
+Lu28276	Leptochilus	shintenensis	Co503	br09	br13	br12	br05
+Lu28309	Oleandra	wallichii	Co506	br11	br13	br12	br08
+Lu28327	Onychium	siliculosum	Co507	br12	br13	br12	br09
+Lu28353	Cyrtomium	devexiscapulae	Co508	br13	br13	br13	br01
+Lu28358	Metathelypteris	laxa	Co509	br08	br12	br13	br02
+Hsu7712	Abrodictyum	clathratum	Co510	br09	br12		
+Hsu7901	Crepidomanes	schmidtianumvar.latifrons	Co511	br10	br12	br13	br04
+Wade1484	Asplenium	ruta-muraria	Co512	br11	br12	br13	br05
+Lu29890	Polystichum	pseudoparvipinnulum	Co516	br09	br11	br13	br08
+Lu31384	Hymenophyllum	parallelocarpum	Co519	br13	br11	br13	br09
+Lu31416	Diplazium	virescensvar.virescens	Co521	br09	br10	br14	br02
+Lu31427	Hymenasplenium	punctisorum	Co522	br11	br10	br14	br03
+Lu31444	Metathelypteris	adscendens	Co523	br12	br10	br14	br04
+Lu30109	Diplazium	crassiusculum	Co524	br13	br10	br14	br06
+Lu30171	Lastreopsis	tenera	Co525	br16	br14	br14	br07
+Lu30190	Azolla	pinnata	Co526	br19	br14	br14	br08
+Lu30193	Hypolepis	tenuifolia	Co527	br20	br14	br14	br09
+Lu29906	Asplenium	adiantum-nigrum	Co528	br14	br12	br15	br01
+Lu29812	Pyrrosia	pseudopolydactylis	Co529	br15	br12	br15	br02
+Lu29816	Hypolepis	polypodioides	Co530	br17	br12	br15	br03
+Lu29826	Polystichum	manmeiense	Co531	br19	br12	br15	br05
+Lu29836	Lepisorus	morrisonensis	Co532	br15	br11	br15	br06
+Lu29843	Polystichum	atkinsonii	Co533	br19	br11		
+Lu29850	Phegopteris	connectilis	Co534	br10	br05	br15	br08
+Lu29854	Lepisorus	suboligolepidus	Co535	br05	br06	br15	br09
+Lu29912	Polystichum	sinense	Co536	br04	br07	br16	br01
+Lu29920	Diplazium	squamigerum	Co537	br19	br10	br16	br02
+Lu29944	Cyrtomium	fortunei	Co539	br20	br10	br16	br04
+Kuo4617	Alsophila	loheri	Co540	br01	br08	br16	br05
+Kuo4584	Ophioglossum	petiolatum	Co542	br02	br08	br16	br06
+TPG1	Adiantum	capillus-venerisformalanyuanum	Co543	br03	br08		
+Kuo4619	Salvinia	cucullata	Co546	br06	br08	br16	br08
+Kuo4618	Microsorum	steerei	Co548	br01	br09	br16	br09
+Lu28272	Coniogramme	japonica	Co549	br02	br09	br17	br01
+Lu26519	Amauropelta	angustifrons	Co551	br04	br09	br17	br03
+Lu26516	Sceptridium	formosanum	Co552	br05	br09		
+Lu26300	Asplenium	formosae	Co555	br01	br10	br17	br05
+ZXC002238	Dryopteris	pseudocaenopteris	Co557	br03	br10	br17	br06
+Lu24465	Leptochilus	decurrens	Co558	br04	br10	br17	br07
+Kuo3849	Lepisorus	papakensis	Co560	br06	br10	br17	br08
+Lu26100	Asplenium	oldhamii	Co561	br07	br10	br17	br09
+FWL883	Pteridium	aquilinumsubsp.wightianum	Co564	br08	br06		
+Lu19683	Crepidomanes	vitiense	Co567	br05	br11	br18	br03
+Lu19492	Pityrogramma	calomelanos	Co568	br06	br11	br18	br04
+Lu19488	Teciaria	impressa	Co569	br07	br11	br18	br05
+Lu29851	Asplenium	trichomanes	Co570	br19	br03	br18	br06
+Lu29667	Crepidomanes	makinoi	Co571	br18	br01	br18	br07
+Lu29657	Coniogramme	intermedia	Co572	br11	br04	br18	br08
+Lu29998	Dryopteris	pseudolunanensis	Co573	br12	br04	br18	br09
+Lu29970	Adiantum	diaphanum	Co574	br13	br04	br01	br01
+Lu30186	Tectaria	subtriphylla	Co575	br14	br04	br01	br02
+Lu30085	Microsorum	scolopendria	Co577	br16	br04	br01	br04
+Wade960	Deparia	unifurcata	Co578			br01	br05
+Hsu2628	Ophioglossum	thermale	Co579	br18	br04		
+Hsu3121	Asplenium	tenerum	Co580	br19	br04		
+Hsu4008	Pseudocyclosorus	esquiroliixtylodes	Co581	br20	br04	br01	br08
+Hsu5100	Pronephrium	ramosiixsimplex	Co582	br12	br05	br01	br09
+Hsu5194	Athyrium	decurrentialatumvar.pilosellum	Co583	br13	br05	br02	br01
+Hsu5959	Athyrium	christensenianum	Co584	br14	br05	br02	br02
+Hsu5981	Polystichum	chunii	Co585			br02	br03
+Hsu6057	Woodsia	okamotoi	Co586	br16	br05	br02	br04
+Hsu6275	Vandenboschia	kalamocarpa	Co587	br17	br05		
+Hsu6632	Athyrium	decurrentialatum	Co589	br19	br05		
+Hsu7150	Hymenophyllum	palmatifidum	Co590	br20	br05	br02	br08
+Hsu7329	Diplazium	virescensvar.conterminum	Co591	br01	br12	br02	br09
+Hsu7949	Hymenophyllum	crispatum	Co592	br02	br12	br03	br01
+Hsu7968	Polystichum	herbaceum	Co593	br03	br12	br03	br02
+Hsu8119	Diplazium	sp.	Co595	br05	br12	br03	br04
+Hsu8161	Hymenophyllum	digitatum	Co596	br06	br12	br03	br05
+Hsu8162	Crepidomanes	minutumsubsp.proliferum	Co597	br07	br12		
+Hsu8424	Diplazium	hachijoense	Co598	br01	br13	br03	br07
+Hsu8703	Diplazium	sp.	Co599	br02	br13	br03	br08
+Lu18888	Elaphoglossum	commutatum	Co600	br03	br13	br03	br09
+Hsu8748	Hymenophyllum	sp.	Co601	br04	br13	br04	br01
+Hsu8898	Hymenophyllum	paniculiflorum	Co603	br06	br13	br04	br03
+Hsu8903	Hymenasplenium	adiantifrons	Co604	br07	br13	br04	br04
+Hsu8937	Diplazium	sp.	Co605	br01	br14	br04	br05
+Hsu9452	Polystichum	taizhongense	Co607	br03	br14	br04	br07
+Hsu9592	Polystichum	sp.	Co608	br04	br14	br04	br08
+Hsu9593	Polystichum	prescottianum	Co609	br05	br14	br04	br09
+Hsu10066	Asplenium	formosaexgriffithianum	Co610	br06	br14	br05	br01
+Hsu10190	Hymenophyllum	taiwanense	Co611	br07	br14	br05	br02
+Hsu10202	Hymenophyllum	fujisanense	Co612	br01	br15	br05	br03
+Hsu10334	Helminthostachys	zeylanica	Co613	br02	br15	br05	br04
+Hsu11171	Diplazium	sp.	Co614	br03	br15	br05	br05
+Hsu11462	Diplazium	sp.	Co615	br04	br15	br05	br06
+Hsu11480	Diplazium	sp.	Co616	br05	br15		
+Hsu11638	Asplenium	incisum	Co617	br06	br15	br05	br08
+Hsu11660	Dryopteris	championii	Co618	br07	br15	br05	br09
+Hsu11889	Hymenophyllum	nitidulum	Co619	br08	br15	br06	br01
+Hsu11965	Asplenium	sp.	Co621	br07	br16	br06	br03
+Hsu11985	Hymenophyllum	exquisitum	Co622	br11	br03	br06	br04
+Hsu12835	Dryopteris	hikonensis	Co623	br12	br03	br06	br05
+Hsu12842	Dryopteris	hikonensis	Co624	br13	br03	br06	br06
+Hsu8586	Hymenophyllum	barbatum	Co625	br14	br03	br06	br07
+Hsu7248	Adiantum	faberi	Co626	br15	br03		
+Hsu11200	Dicranopteris	latiloba	Co627	br16	br03		
+Hsu12323	Dryopteris	changii	Co628	br17	br03	br07	br01
+Hsu13239	Scleroglossum	sp.	Co629	br18	br03	br07	br02
+Hsu13240	Dicranopteris	latiloba	Co630	br11	br02	br07	br03
+Hsu13260	Plagiogyria	sp.	Co631	br13	br01		
+ZXC002303	Tomophyllum	sp.	Co632	br12	br02	br07	br04
+Lu29608	Diplazium	hachijoense	Co633			br07	br05
+Hsu12838	Dryopteris	changii	Co634	br14	br02	br07	br06
+Hsu11929	Polystichum	erosum	Co635	br11	br01	br07	br08
+Hsu13219	Cheilanthes	viridis	Co636	br12	br01		
+Lu26302	Hymenasplenium	subnormale	Co638			br08	br02
+Lu29600	Dryopteris	kwanzanensis	Co639	br04	br08	br08	br03
+Lu30010	Dryopteris	indusiata	Co640	br05	br08	br08	br04
+FWL864	Christella	arida	Co641	br07	br08	br08	br05
+Hsu2675	Polystichum	tenuius	Co642	br03	br09	br08	br06
+Lu21722	Ampelopteris	prolifera	Co643	br06	br09		
+Lu22116	Christella	jaculosa	Co644	br07	br09	br08	br08
+Kuo4186	Arachniodes	nigrospinosa	Co645	br02	br10	br08	br09
+Lu29550	Pyrrosia	assimilis	Co648	br02	br11	br09	br03
+Kuo4556	Tectaria	harlandii	Co650	br17	br02	br09	br04
+Kuo3882	Athyrium	vidalii	KTHU753				
+ZXC001589	Dryopteris	cycadina	KTHU006	br10	br04		
+ZXC001560	Athyrium	erythropodum	KTHU009	br11	br14		
+ZXC001583	Arachniodes	globisora	KTHU024	br12	br14		
+Lu32031	Pronephrium	simplex	KTHU059	br17	br10		
+Kuo4545	Nephrolepis	aff.copelandii	KTHU269	br19	br13	br09	br06
+Kuo2441	Drynaria	coronans	KTHU549			br03	br11
+Kuo4211	Asplenium	prolongatum	KTHU646				
+Kuo4213	Microsorum	sp.	KTHU648	br20	br13	br09	br07
+Kuo4221	Crepidomanes	latemarginale	KTHU656	br10	br14		
+Kuo3791	Polystichum	piceopaleaceum	KTHU673			br03	br13
+Kuo3795	Dryopteris	redactopinnata	KTHU675			br03	br14
+Kuo3799	Athyrium	fluviale	KTHU679			br04	br02
+Kuo3802	Pteris	cretica	KTHU680				
+Kuo3806	Arachniodes	amabilis	KTHU682			br04	br11
+Kuo3807	Asplenium	tripteropus	KTHU683			br04	br16
+Kuo3809	Pyrrosia	matsudae	KTHU684			br04	br17
+Kuo3810	Asplenium	yoshinagae	KTHU685			br06	br02
+Kuo3812	Pyrrosia	sheareri	KTHU687			br06	br08
+Kuo3820	Pyrrosia	porosa	KTHU694			br06	br09
+Kuo3822	Athyrium	strigillosum	KTHU696	br03	br03	br03	br16
+Kuo3825	Onychium	lucidum	KTHU699			br06	br11
+Kuo3828	Pteris	scabristipes	KTHU701			br06	br12
+Kuo3829	Asplenium	tenuicaule	KTHU702			br06	br17
+Kuo3831	Asplenium	ensiforme	KTHU704			br08	br01
+Kuo3832	Goniophlebium	fieldingianum	KTHU705	br05	br16	br11	br14
+Kuo3834	Neolepisorus	sp.	KTHU706	br04	br04	br04	br15
+Kuo3835	Polystichum	deltodon	KTHU707			br09	br01
+Kuo3836	Loxogramme	remotefrondigera	KTHU708	br05	br05		
+Kuo3837	Athyrium	leiopodum	KTHU709	br06	br06	br06	br13
+Kuo3838	Athyrium	mupinense	KTHU710	br02	br01		
+Kuo3839	Metathelypteris	gracilescens	KTHU711			br09	br02
+Kuo3842	Woodsia	sp.	KTHU714			br12	br01
+Kuo3843	Anogramma	leptophylla	KTHU715			br12	br16
+Kuo3845	Polystichum	thomsonii	KTHU717			br07	br09
+Kuo3847	Athyrium	delavayi	KTHU720			br08	br07
+Kuo3851	Cystopteris	moupinensis	KTHU725				
+Kuo3853	Athyrium	anisopterum	KTHU727			br13	br03
+Kuo3855	Dennstaedtia	hirsuta	KTHU729	br03	br01		
+Kuo3856	Selliguea	hastata	KTHU730			br14	br13
+Kuo3858	Athyrium	tozanense	KTHU732	br08	br01		
+Kuo3860	Polystichum	pseudostenophyllum	KTHU733			br15	br12
+Kuo3861	Dryopteris	cacaina	KTHU734			br15	br15
+Kuo3862	Polystichum	stenophyllum	KTHU735			br17	br04
+Kuo3864	Athyrium	otophorum	KTHU736			br18	br02
+Kuo3865	Elaphoglossum	angulatum	KTHU737				
+Kuo3866	Acystopteris	taiwaniana	KTHU738				
+Kuo3869	Deparia	jiulungensis	KTHU741			br01	br18
+Kuo3871	Amauropelta	beddomei	KTHU743			br05	br14
+Kuo3881	Selliguea	quasidivaricata	KTHU752				
+Kuo3882	Athyrium	vidalii	KTHU753			br12	br07
+Wade1250	Sphaerostephanos	productus	KTHU761	br09	br01	br08	br11
+Wade1251	Lindsaea	cultrata	KTHU762	br05	br01		
+Wade1252	Tapeinidium	biserratum	KTHU763	br09	br09	br09	br10
+Wade1256	Selaginella	boninensis	KTHU767				
+Wade1269	Crepidomanes	bipunctatum	KTHU780	br02	br04		
+Wade1270	Crepidomanes	thysanostomum	KTHU781	br03	br04		
+Kuo1310	Goniophlebium	lachnopum	Kuo1310	br01	br20	br13	br17
+Kuo1367	Goniophlebium	amoenum	Kuo1367	br02	br20		
+Kuo1368	Goniophlebium	aff.niponicum	Kuo1368	br03	br20		
+Kuo1447	Goniophlebium	argutum	Kuo1447	br04	br20		
+Kuo1499	Goniophlebium	hendersonii	Kuo1499	br05	br20		
+Kuo1557	Goniophlebium	hendersonii	Kuo1557	br06	br20	br13	br18
+Kuo2221	Goniophlebium	dielseanum	Kuo2221	br07	br20		
+Kuo2874	Goniophlebium	amoenum	Kuo2874	br01	br19		
+Kuo4258	Goniophlebium	transpianense	Kuo4258	br02	br19		
+Kuo4259	Goniophlebium	raishaense	Kuo4259	br03	br19	br12	br10
+Kuo4278	Goniophlebium	raishaense	Kuo4278	br04	br19		
+Kuo545	Goniophlebium	coadunatum	Kuo545	br05	br19		
+Kuo725	Goniophlebium	amoenum	Kuo725	br06	br19		
+Lu15732	Goniophlebium	amoenum	Lu15732	br07	br19	br12	br11
+Lu19439	Goniophlebium	formosanum	Lu19439	br20	br02		
+Lu19734	Goniophlebium	raishaense	Lu19734	br02	br18		
+Lu21523	Goniophlebium	raishaense	Lu21523	br03	br18		
+Lu24746	Goniophlebium	amoenum	Lu24746	br04	br18		
+Lu26471	Goniophlebium	formosanum	Lu26471	br03	br17	br12	br14
+Wade1995	Goniophlebium	subauriculatum	Wade1995	br05	br18		
+Wade2379	Goniophlebium	amoenum	Wade2379	br06	br18	br12	br12
+Wade2500	Goniophlebium	bourretii	Wade2500	br07	br18		
+Wade2651	Goniophlebium	amoenum	Wade2651	br01	br17		
+Wade3523	Goniophlebium	serratifolium	Wade3523	br02	br17	br12	br13
